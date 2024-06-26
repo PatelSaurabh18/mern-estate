@@ -14,7 +14,7 @@ export default function Header() {
 
                     <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
                         <span className='text-slate-500'>Saurabh</span>
-                        <span className='text-slate-700'>SinghPatel</span>
+                        <span className='text-slate-700'>Estate</span>
                     </h1>
                 </Link>
 
